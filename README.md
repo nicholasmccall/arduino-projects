@@ -1,2 +1,13 @@
 # arduino-projects
-A repo containing various code/diagrams related to my Arduino projects
+
+This repo houses mini-projects associated with the Arduino tutorial series by Paul McWhorter: https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
+
+### Folder Structures
+
+Each folder in the root of this project is a separate mini-project associated with one of Paul's videos.  Each of these subfolders will contain the following:
+
+1. A README with a link to the corresponding video
+2. A reference picture of the Arduino circuit with a naming convention of - {Project Name} Arduino Circuit Picture.png
+3. A component list outlining required components with a naming convention of - {Project Name} Component List.csv
+4. A circuit schematic with a naming convention of - {Project Name} Schematic.pdf
+5. Source code in the src folder
