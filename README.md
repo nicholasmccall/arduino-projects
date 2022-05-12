@@ -11,3 +11,6 @@ Each folder in the root of this project is a separate mini-project associated wi
 3. A component list outlining required components with a naming convention of - {Project Name} Component List.csv
 4. A circuit schematic with a naming convention of - {Project Name} Schematic.pdf
 5. Source code in the src folder
+
+
+Note that my code may or may not be consistent with Paul's suggested homeworks.  I generally look for something interesting to do that helps me practice building circuits and/or following different coding patterns.
